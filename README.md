@@ -31,3 +31,6 @@ Airbnb front-end clone... or at least a rough impersonation of one.
 
 ## Someday, maybe:  
 Host role — so you can fake-post your fake apartment in a fake marketplace. Ambitious, I know.
+
+<hr>
+ps. I don't know how to write Readme.md
