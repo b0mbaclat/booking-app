@@ -1,6 +1,7 @@
 # Minor Project:  
 Airbnb front-end clone... or at least a rough impersonation of one.
-![image](https://github.com/user-attachments/assets/28212d2d-e39b-4259-ab59-f7ae8f91d208)
+![image](https://github.com/user-attachments/assets/5ecd6a91-c346-4df3-93e9-7060e46969a9)
+
 
 
 ## Features (yes, it actually does stuff):
@@ -18,6 +19,8 @@ Airbnb front-end clone... or at least a rough impersonation of one.
   ![image](https://github.com/user-attachments/assets/cd5b264b-395d-42e0-97ec-b22c58216b13)
 
 - Fully responsive — because we’re not animals.
+
+  
 ![image](https://github.com/user-attachments/assets/cdf5c429-b0a6-49e7-9ac9-2f6faf615501)
 
   
